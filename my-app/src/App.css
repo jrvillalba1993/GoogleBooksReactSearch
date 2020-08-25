@@ -3,6 +3,13 @@
     margin: 0;
 }
 
+
+.wallpaper {
+
+    background: url("../src/images/white_leather.png");
+}
+
+
 header {
     padding: 30px 0 30px 0;
     background: #33AAFF;
@@ -30,9 +37,9 @@ select:focus
 }
 
 .search-area form {
-    width: 500px;
+    width: 400px;
     margin: 0 auto;
-    padding: 150px 0px 20px 140px;
+    padding: 150px 0px 20px 50px;
     
     
 }
@@ -45,15 +52,18 @@ select:focus
     padding: 10px 10px 5px 13px;
     position: relative;
     border-color: black;
+    
 
 }
 
 input {
     width: 350px;
-    padding: 15px;
+    padding: 15px 0 10px 0;
     font-size: 1em;
     border: solid;
     border-color: black;
+    
+    
     
 }
 
@@ -119,9 +129,9 @@ select {
     background-color: #33AAFF;
     color: #fff;
     height: 37px;
-    width: 70px;
+    width: 100px;
     position: relative;
-    top: -2px;
+    top: -3px;
     border: solid;
     border-color: black;
   
