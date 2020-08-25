@@ -8,7 +8,7 @@ You can find this assignment deployed <b><a href="https://reactbooksearch93.hero
 In this assignment we were asked to create an app using React that utilized a google API key for books to be searched and information to be pulled up of those books.
 
 <img src="https://i.imgur.com/R8fCBNe.png" alt="Example-image" />
-
+&nbsp
 < hr/>
 
 Overview
