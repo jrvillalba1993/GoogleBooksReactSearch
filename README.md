@@ -1,7 +1,7 @@
 <h1> Google Books React Search</h1>
 <h3>Julian Villalba</h3>
 
-<h3><i>(*As of right now I need to add the ability for people to save books but that appears to be the only thing I need to do*) </i></h3>
+<h5><i>(*As of right now I need to add the ability for people to save books but that appears to be the only thing I need to do*) </i></h5>
 
 You can find this assignment deployed <b><a href="https://reactbooksearch93.herokuapp.com/"> HERE </a></b> on Heroku
 
