@@ -1,7 +1,9 @@
 <h1> Google Books React Search</h1>
 <h3>Julian Villalba</h3>
 
-<h3><i>As of right now I need to add the ability for people to save books but that appears to be the only thing I need to do </i></h3>
+<h3><i>(*As of right now I need to add the ability for people to save books but that appears to be the only thing I need to do*) </i></h3>
+
+You can find this assignment deployed <b><a href="https://reactbooksearch93.herokuapp.com/"> HERE </a></b> on Heroku
 
 In this assignment we were asked to create an app using React that utilized a google API key for books to be searched and information to be pulled up of those books.
 
